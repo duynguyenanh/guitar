@@ -45,7 +45,7 @@ const sendEmail = (to,name,token,type,actionData = null) => {
     const smtpTransport = mailer.createTransport({
         service:"Gmail",
         auth:{
-            user: "waves.guitars.rev@gmail.com",
+            user: "duy.nguyenanh1112@gmail.com",
             pass: process.env.EMAIL_PASS
         }
     });
