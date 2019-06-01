@@ -13,7 +13,7 @@ const Footer = ({data}) => {
         <footer className="bck_b_dark">
             <div className="container">
                 <div className="logo">
-                    Waves
+                    HENRY'S
                 </div>
                 <div className="wrapper">
                     <div className="left">
